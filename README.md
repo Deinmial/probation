@@ -10,13 +10,13 @@
 
 Наш исходный лист: ['game', 45, 'but', 87, 17, 'hook', 'salary', 10, 'image', 70, 'computer', 'table', 35, 40]
 
-Шаг 1 | ['but', 'game', 45, 17, 'hook', 'salary', 10, 'image', 70, 'computer', 'table', 35, 40, 87]
-Шаг 2 | ['computer', 'but', 'game', 45, 17, 'hook', 'salary', 10, 'image', 'table', 35, 40, 87, 70]
-Шаг 3 | ['game', 'computer', 'but', 17, 'hook', 'salary', 10, 'image', 'table', 35, 40, 87, 70, 45]
-Шаг 4 | ['hook', 'game', 'computer', 'but', 17, 'salary', 10, 'image', 'table', 35, 87, 70, 45, 40]
-Шаг 5 | ['image', 'hook', 'game', 'computer', 'but', 17, 'salary', 10, 'table', 87, 70, 45, 40, 35]
-Шаг 6 | ['salary', 'image', 'hook', 'game', 'computer', 'but', 10, 'table', 87, 70, 45, 40, 35, 17]
-Шаг 7 | ['table', 'salary', 'image', 'hook', 'game', 'computer', 'but', 87, 70, 45, 40, 35, 17, 10]
+Шаг 1 | ['but', 'game', 45, 17, 'hook', 'salary', 10, 'image', 70, 'computer', 'table', 35, 40, 87]<br>
+Шаг 2 | ['computer', 'but', 'game', 45, 17, 'hook', 'salary', 10, 'image', 'table', 35, 40, 87, 70]<br>
+Шаг 3 | ['game', 'computer', 'but', 17, 'hook', 'salary', 10, 'image', 'table', 35, 40, 87, 70, 45]<br>
+Шаг 4 | ['hook', 'game', 'computer', 'but', 17, 'salary', 10, 'image', 'table', 35, 87, 70, 45, 40]<br>
+Шаг 5 | ['image', 'hook', 'game', 'computer', 'but', 17, 'salary', 10, 'table', 87, 70, 45, 40, 35]<br>
+Шаг 6 | ['salary', 'image', 'hook', 'game', 'computer', 'but', 10, 'table', 87, 70, 45, 40, 35, 17]<br>
+Шаг 7 | ['table', 'salary', 'image', 'hook', 'game', 'computer', 'but', 87, 70, 45, 40, 35, 17, 10]<br>
 
 Результат: ['table', 'salary', 'image', 'hook', 'game', 'computer', 'but', 87, 70, 45, 40, 35, 17, 10]
 
